@@ -1,8 +1,12 @@
 - url: https://www.ottonova.de/
   wait: 1000
   quality: 80
+  javascript: |
+    document.querySelector('[data-testid="uc-app-container"]').remove();
   output: ottonova-de.jpg
 - url: https://www.hellogetsafe.com/de-de
   wait: 1000
   quality: 80
+  javascript: |
+    document.querySelector('#onetrust-consent-sdk').remove();
   output: hellogetsafe-com.jpg
