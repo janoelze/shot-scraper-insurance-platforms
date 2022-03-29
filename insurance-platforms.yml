@@ -1,0 +1,8 @@
+- url: https://www.ottonova.de/
+  wait: 1000
+  quality: 80
+  output: ottonova.jpg
+- url: https://www.hellogetsafe.com/de-de
+  wait: 1000
+  quality: 80
+  output: ottonova.jpg
