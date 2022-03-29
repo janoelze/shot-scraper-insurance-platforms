@@ -1,8 +1,8 @@
 - url: https://www.ottonova.de/
   wait: 1000
   quality: 80
-  output: ottonova.jpg
+  output: ottonova-de.jpg
 - url: https://www.hellogetsafe.com/de-de
   wait: 1000
   quality: 80
-  output: ottonova.jpg
+  output: hellogetsafe-com.jpg
